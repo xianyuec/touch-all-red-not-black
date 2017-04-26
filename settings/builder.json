@@ -1,0 +1,24 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.xianyuec.phdbphd",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "a7bb44b1-ca02-4a0b-bd6e-5bb08eb0448e",
+  "title": "NewProject",
+  "webOrientation": "auto"
+}
